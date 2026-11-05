@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My First Post!"
+tags: life
 ---
 
 # 28 August 2026 
