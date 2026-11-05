@@ -4,6 +4,8 @@ title: life
 permalink: /life/
 ---
 
+life updates and check-ins
+
 <ul>
   {% for post in site.tags.life %}
     <li>
@@ -12,6 +14,3 @@ permalink: /life/
     </li>
   {% endfor %}
 </ul>
-
-
-life updates and check-ins
