@@ -36,6 +36,7 @@ plugins:
 
 header_pages:
   - index.markdown
+  - life.markdown
   - music.markdown
   - about.markdown
 
