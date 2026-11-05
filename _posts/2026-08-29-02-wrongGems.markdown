@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "wrong gems?"
+tags: life
 ---
 
 # 29 August 2026
