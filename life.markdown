@@ -2,6 +2,7 @@
 layout: page
 title: life
 permalink: /life/
+---
 
 <ul>
   {% for post in site.tags.life %}
@@ -11,6 +12,6 @@ permalink: /life/
     </li>
   {% endfor %}
 </ul>
----
+
 
 life updates and check-ins
