@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2026-11-05-testing.md",
+                "file": "_posts/2026-11-05-testing.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,16 +203,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c5ecd74614330b3",
+  "active": "8c2048aee3617ecd",
   "lastOpenFiles": [
+    "_posts/2026-08-29-02-wrongGems.md",
+    "_posts/2026-11-05-testing.md",
+    "_posts/2026-08-28-01.md",
     "README.md",
     "_templates/posts.md",
     "assets/images/celine_and_rein_aether_lobby.jpeg",
-    "_drafts/2026-11-05-testing.md",
     "assets/images",
     "assets",
-    "_posts/2026-08-28-01.md",
-    "_templates",
-    "_posts/2026-08-29-02-wrongGems.md"
+    "_templates"
   ]
 }
