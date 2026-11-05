@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Obsidian
+.obsidian/
+.trash/
+
+# macOS
+.DS_Store
